@@ -36,6 +36,10 @@ For an example of usage, see ``example.py``, which you can run with:
 $ python example.py testdata/test_image.jpg 
 ```
 
+For detailed documentation and implementation details, please read the
+docstrings in
+[grayscalelib.py](https://github.com/anaulin/grayscalelib/blob/master/grayscalelib.py).
+
 To run the library's tests, from the repository's root directory run:
 
 ```bash
