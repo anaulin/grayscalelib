@@ -1,0 +1,7 @@
+# This file lists all the dependencies for grayscalelib
+# that are not part of the standard Python library.
+# To install, run:
+#   $ pip install -r requirements.txt
+
+# The Python Image Library
+pillow

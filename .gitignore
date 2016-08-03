@@ -1,3 +1,7 @@
+# Output of running our test data through tests
+testdata/test_image_grayscale.jpg
+testdata/test_image_grayscale.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
